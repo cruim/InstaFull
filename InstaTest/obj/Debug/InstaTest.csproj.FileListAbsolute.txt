@@ -1,0 +1,27 @@
+c:\users\пользователь\documents\visual studio 2015\Projects\InstaTest\InstaTest\bin\Debug\InstaTest.exe.config
+c:\users\пользователь\documents\visual studio 2015\Projects\InstaTest\InstaTest\obj\Debug\InstaTest.csprojResolveAssemblyReference.cache
+c:\users\пользователь\documents\visual studio 2015\Projects\InstaTest\InstaTest\obj\Debug\Demo.Form1.resources
+c:\users\пользователь\documents\visual studio 2015\Projects\InstaTest\InstaTest\obj\Debug\InstaTest.Properties.Resources.resources
+c:\users\пользователь\documents\visual studio 2015\Projects\InstaTest\InstaTest\obj\Debug\InstaTest.csproj.GenerateResource.Cache
+c:\users\пользователь\documents\visual studio 2015\Projects\InstaTest\InstaTest\bin\Debug\InstaTest.exe
+c:\users\пользователь\documents\visual studio 2015\Projects\InstaTest\InstaTest\bin\Debug\InstaTest.pdb
+c:\users\пользователь\documents\visual studio 2015\Projects\InstaTest\InstaTest\obj\Debug\InstaTest.exe
+c:\users\пользователь\documents\visual studio 2015\Projects\InstaTest\InstaTest\obj\Debug\InstaTest.pdb
+C:\VSProjects\Insta-master\Insta-master\InstaTest\bin\Debug\InstaTest.exe.config
+C:\VSProjects\Insta-master\Insta-master\InstaTest\obj\Debug\InstaTest.exe
+C:\VSProjects\Insta-master\Insta-master\InstaTest\obj\Debug\InstaTest.pdb
+C:\VSProjects\Insta-master\Insta-master\InstaTest\bin\Debug\InstaTest.exe
+C:\VSProjects\Insta-master\Insta-master\InstaTest\bin\Debug\InstaTest.pdb
+C:\VSProjects\Insta-master\Insta-master\InstaTest\obj\Debug\InstaTest.csprojResolveAssemblyReference.cache
+C:\VSProjects\Insta-master\Insta-master\InstaTest\obj\Debug\Demo.Form1.resources
+C:\VSProjects\Insta-master\Insta-master\InstaTest\obj\Debug\InstaTest.Properties.Resources.resources
+C:\VSProjects\Insta-master\Insta-master\InstaTest\obj\Debug\InstaTest.csproj.GenerateResource.Cache
+C:\Users\Пользователь\Desktop\InstaFull-master\InstaFull-master\InstaTest\bin\Debug\InstaTest.exe.config
+C:\Users\Пользователь\Desktop\InstaFull-master\InstaFull-master\InstaTest\obj\Debug\InstaTest.exe
+C:\Users\Пользователь\Desktop\InstaFull-master\InstaFull-master\InstaTest\obj\Debug\InstaTest.pdb
+C:\Users\Пользователь\Desktop\InstaFull-master\InstaFull-master\InstaTest\bin\Debug\InstaTest.exe
+C:\Users\Пользователь\Desktop\InstaFull-master\InstaFull-master\InstaTest\bin\Debug\InstaTest.pdb
+C:\Users\Пользователь\Desktop\InstaFull-master\InstaFull-master\InstaTest\obj\Debug\InstaTest.csprojResolveAssemblyReference.cache
+C:\Users\Пользователь\Desktop\InstaFull-master\InstaFull-master\InstaTest\obj\Debug\Demo.Form1.resources
+C:\Users\Пользователь\Desktop\InstaFull-master\InstaFull-master\InstaTest\obj\Debug\InstaTest.Properties.Resources.resources
+C:\Users\Пользователь\Desktop\InstaFull-master\InstaFull-master\InstaTest\obj\Debug\InstaTest.csproj.GenerateResource.Cache
